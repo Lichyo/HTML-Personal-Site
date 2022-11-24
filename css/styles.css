@@ -9,7 +9,7 @@ hr
   border-style: dotted none none;
   border-color: grey;
   border-width: 10px;
-  width: 10%;
+  width: 5%;
 }
 
 h1
@@ -25,4 +25,9 @@ h3
 h2s
 {
   color: #59C1BD;
+}
+
+table
+{
+  border-spacing: 10px;
 }
